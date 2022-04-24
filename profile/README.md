@@ -1,4 +1,4 @@
-![Veza Logo](Veza_Lockup_Amethyst.png)
+![Veza Logo](profile/Veza_Lockup_Amethyst.png)
 ## Veza Overview
 Veza is the data security platform built on the power of authorization. Our platform is purpose-built for multi-cloud
 environments to help you use and share your data more safely. Veza makes it easy to dynamically visualize, understand
