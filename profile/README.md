@@ -131,9 +131,9 @@ the payload and loads the data into the Authorization Metadata Graph
 
 ### Example Using the SDK
 
-Also available is the `oaaclient` Python SDK that simplifies creation of the authorization payload and submission to
-Veza. The SDK provides interfaces to creating all the support OAA template components and registering new sources with
-Veza.
+Also available is the `oaaclient` [Python SDK](https://github.com/Veza/oaaclient-py) that simplifies creation of the
+authorization payload and submission to Veza. The SDK provides interfaces to creating all the support OAA template
+components and registering new sources with Veza.
 
 ```python
 from oaaclient.client import OAAClient, OAAPermission
