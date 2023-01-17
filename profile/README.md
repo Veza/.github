@@ -161,4 +161,4 @@ jane.add_permission(permission="owner", resources=[resource1])
 ```
 
 ## Join Us on Slack
-Join us on Slack at [#veza-oaa-community](https://join.slack.com/t/veza-world/shared_invite/zt-17d9quyiq-20JMp0ikZ0pVNz_e5W5j7Q)
+Join us on Slack at [#veza-oaa-community](https://join.slack.com/t/veza-oaa-community/shared_invite/zt-1mk5kw2ub-ySi02BAY8kHyE9BceFhjPQ)
