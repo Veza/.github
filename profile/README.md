@@ -159,6 +159,3 @@ resource1 = custom_app.add_resource(name="Resource 1", resource_type="thing")
 # associate identities to resources based on their permissions
 jane.add_permission(permission="owner", resources=[resource1])
 ```
-
-## Join Us on Slack
-Join us on Slack at [#veza-oaa-community](https://join.slack.com/t/veza-oaa-community/shared_invite/zt-1mk5kw2ub-ySi02BAY8kHyE9BceFhjPQ)
