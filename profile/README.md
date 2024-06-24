@@ -1,4 +1,4 @@
-<img src="images/Veza_Lockup_Blue.png" width="270">
+<img src="/images/Veza_Lockup_Blue.png" width="270">
 
 ## Veza Overview
 
@@ -20,7 +20,7 @@ format. To integrate a new system, you utilize that system's API (or other inter
 permissions and resources that you want available in Veza. This information must then be formatted according to the OAA
 JSON schema and uploaded to Veza using the [OAA REST API](https://developer.veza.com/oaa/reference/api/oaa-push-api.html).
 
-![Flow Diagram](images/OAAFlow.png)
+![Flow Diagram](/images/OAAFlow.png)
 
 Veza processes this schema mapping to integrate metadata from the new target system into its Authorization Graph, 
 which maps which identities have what permissions to what resources. Veza combines this information with discovered 
